@@ -5,3 +5,5 @@ console.log("teste para emblema");
 function main(){
   return null;
 }
+
+main();
